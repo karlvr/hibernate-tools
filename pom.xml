@@ -9,7 +9,7 @@
 		<version>30</version>
 	</parent>
 
-        <version>5.2.13-SNAPSHOT</version>
+        <version>5.2.12-CACTUSLAB</version>
 
 	<groupId>org.hibernate</groupId>
 	<artifactId>hibernate-tools</artifactId>
